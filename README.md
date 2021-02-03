@@ -1,6 +1,6 @@
 ## Professional Git course [FREE]
 
-This repository accompanies a free interactive course about using Git in a professional team environment.
+This  repository accompanies a free interactive course about using Git in a professional team environment.
 
 Visit [ooloo.io](https://ooloo.io/project/github-flow) for more information.
 
